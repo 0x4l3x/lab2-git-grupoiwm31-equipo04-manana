@@ -1,5 +1,3 @@
-src/main/java/hello/Application.java
-
 package hello;
 
 import org.springframework.boot.SpringApplication;
